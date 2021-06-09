@@ -14,6 +14,7 @@ Desafio final do curso [shePY](https://github.com/fernandarrios/shePY) ministrad
       - Sou Exigente?
       - De qual país eu consumo mais conteúdo audiovisual?
       - De quais diretores eu mais assisti filmes?
+      - Ano vs Nota
 2. Uma breve história dos livros
     - Importando o dataset
     - Análise exploratória do dataframe
@@ -22,6 +23,7 @@ Desafio final do curso [shePY](https://github.com/fernandarrios/shePY) ministrad
       - Sou Exigente?
       - De qual país eu mais consumo a literatura?
       - Físico ou ebook?
+      - Quantidade de páginas vs Nota
      - Juntando os dataframes para uma análise final
 3. Referência
 4. Documentação
